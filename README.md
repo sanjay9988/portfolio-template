@@ -3,7 +3,7 @@ This is a nextjs portfolio template
 ## Getting Started
 
 First, run the development server:
-install are the dependency.
+install dependency.
 ```bash
 npm run dev
 # or
